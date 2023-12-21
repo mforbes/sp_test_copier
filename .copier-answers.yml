@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2023.11.17
+_src_path: gh:scientific-python/cookie
+backend: pdm
+email: michael.forbes+python@gmail.com
+full_name: Michael McNeil Forbes
+license: BSD
+org: mforbes
+project_name: SP Test Copier
+project_short_description: Test of the Scientific Python Cookie project.
+url: https://github.com/mforbes/sp_test_copier
+vcs: true
